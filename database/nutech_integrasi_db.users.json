@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67cbdfd543e70faba37dcdfd"
+  },
+  "email": "user@nutech-integrasi.com",
+  "first_name": "User Edited",
+  "last_name": "Nutech Edited",
+  "password": "$2b$10$RUnlu3TesRZwSjBL8A3iIuh2UQvOzlH9tQrjgCmv8DHhUd7qDD8ry",
+  "profile_image": "uploads\\1741415222511-512213689.jpg",
+  "balance": 200000,
+  "__v": 0
+}]

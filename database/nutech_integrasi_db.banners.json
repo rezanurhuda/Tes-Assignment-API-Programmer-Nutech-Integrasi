@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67cb640739d4ac88ee85f30f"
+  },
+  "banner_name": "Banner 1",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "67cb663b39d4ac88ee85f311"
+  },
+  "banner_name": "Banner 2",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "67cb664639d4ac88ee85f313"
+  },
+  "banner_name": "Banner 3",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "67cb665339d4ac88ee85f315"
+  },
+  "banner_name": "Banner 4",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet"
+},
+{
+  "_id": {
+    "$oid": "67cb665e39d4ac88ee85f317"
+  },
+  "banner_name": "Banner 5",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet"
+}]

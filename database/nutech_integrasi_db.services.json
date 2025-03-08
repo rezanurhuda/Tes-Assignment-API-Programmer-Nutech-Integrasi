@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "67cb6c23aeb84ab4b2a23941"
+  },
+  "service_code": "PAJAK",
+  "service_name": "Pajak PBB",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 40000
+},
+{
+  "_id": {
+    "$oid": "67cb6c56aeb84ab4b2a23948"
+  },
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 10000
+},
+{
+  "_id": {
+    "$oid": "67cb6ec6aeb84ab4b2a2394a"
+  },
+  "service_code": "PDAM",
+  "service_name": "PDAM Berlangganan",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 40000
+},
+{
+  "_id": {
+    "$oid": "67cb6edeaeb84ab4b2a2394c"
+  },
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 40000
+},
+{
+  "_id": {
+    "$oid": "67cb6eeeaeb84ab4b2a2394e"
+  },
+  "service_code": "PGN",
+  "service_name": "PGN Berlangganan",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 50000
+},
+{
+  "_id": {
+    "$oid": "67cb6efaaeb84ab4b2a23950"
+  },
+  "service_code": "MUSIK",
+  "service_name": "Musik Berlangganan",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 50000
+},
+{
+  "_id": {
+    "$oid": "67cb6f08aeb84ab4b2a23952"
+  },
+  "service_code": "TV",
+  "service_name": "TV Berlangganan",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 50000
+},
+{
+  "_id": {
+    "$oid": "67cb6f37aeb84ab4b2a23954"
+  },
+  "service_code": "PAKET_DATA",
+  "service_name": "Paket data",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 50000
+},
+{
+  "_id": {
+    "$oid": "67cb6f49aeb84ab4b2a23956"
+  },
+  "service_code": "VOUCHER_GAME",
+  "service_name": "Voucher Game",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 100000
+},
+{
+  "_id": {
+    "$oid": "67cb6f56aeb84ab4b2a23958"
+  },
+  "service_code": "VOUCHER_MAKANAN",
+  "service_name": "Voucher Makanan",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 100000
+},
+{
+  "_id": {
+    "$oid": "67cb6f65aeb84ab4b2a2395a"
+  },
+  "service_code": "QURBAN",
+  "service_name": "Qurban",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 200000
+},
+{
+  "_id": {
+    "$oid": "67cb6f72aeb84ab4b2a2395c"
+  },
+  "service_code": "ZAKAT",
+  "service_name": "Zakat",
+  "service_icon": "https://nutech-integrasi.app/dummy.jpg",
+  "service_tarif": 300000
+}]

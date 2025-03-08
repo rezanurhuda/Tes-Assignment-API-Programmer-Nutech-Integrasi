@@ -1,0 +1,603 @@
+[{
+  "_id": {
+    "$oid": "67cbd4d3c5f81d7f4b470e41"
+  },
+  "invoice_number": "INV080325-041",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:25:39.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd51fc5f81d7f4b470e49"
+  },
+  "invoice_number": "INV080325-183",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:26:55.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd891f84c026cb92577fe"
+  },
+  "invoice_number": "INV080325-249",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 100000,
+  "created_on": {
+    "$date": "2025-03-08T05:41:37.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd895f84c026cb9257802"
+  },
+  "invoice_number": "INV080325-079",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 100000,
+  "created_on": {
+    "$date": "2025-03-08T05:41:41.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd95ee78c63bddd3a1cf5"
+  },
+  "invoice_number": "INV080325-915",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 100000,
+  "created_on": {
+    "$date": "2025-03-08T05:45:02.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd96be78c63bddd3a1cfb"
+  },
+  "invoice_number": "INV080325-420",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 200000,
+  "created_on": {
+    "$date": "2025-03-08T05:45:15.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd977e78c63bddd3a1d02"
+  },
+  "invoice_number": "INV080325-576",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:45:27.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9b2e78c63bddd3a1d0b"
+  },
+  "invoice_number": "INV080325-380",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:26.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9b3e78c63bddd3a1d10"
+  },
+  "invoice_number": "INV080325-667",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:27.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9b3e78c63bddd3a1d15"
+  },
+  "invoice_number": "INV080325-939",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:27.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9b4e78c63bddd3a1d1a"
+  },
+  "invoice_number": "INV080325-374",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:28.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9b4e78c63bddd3a1d1f"
+  },
+  "invoice_number": "INV080325-941",
+  "service_code": "PLN",
+  "service_name": "Listrik",
+  "transaction_type": "PAYMENT",
+  "total_amount": 10000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:28.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9c7e78c63bddd3a1d25"
+  },
+  "invoice_number": "INV080325-176",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:47.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9c8e78c63bddd3a1d2a"
+  },
+  "invoice_number": "INV080325-167",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:48.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9c9e78c63bddd3a1d2f"
+  },
+  "invoice_number": "INV080325-960",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:46:49.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbd9d7e78c63bddd3a1d36"
+  },
+  "invoice_number": "INV080325-122",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 300000,
+  "created_on": {
+    "$date": "2025-03-08T05:47:03.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdb9dbcfccfffd43869af"
+  },
+  "invoice_number": "INV080325-909",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:37.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdb9ebcfccfffd43869b4"
+  },
+  "invoice_number": "INV080325-241",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:38.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdb9ebcfccfffd43869b9"
+  },
+  "invoice_number": "INV080325-864",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:38.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdb9fbcfccfffd43869be"
+  },
+  "invoice_number": "INV080325-082",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:39.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdb9fbcfccfffd43869c3"
+  },
+  "invoice_number": "INV080325-552",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:39.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdb9fbcfccfffd43869c8"
+  },
+  "invoice_number": "INV080325-990",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:39.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdba0bcfccfffd43869cd"
+  },
+  "invoice_number": "INV080325-594",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:40.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdba8bcfccfffd43869d6"
+  },
+  "invoice_number": "INV080325-571",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 300000,
+  "created_on": {
+    "$date": "2025-03-08T05:54:48.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdcf9f950f28717499075"
+  },
+  "invoice_number": "INV080325-775",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 160000,
+  "created_on": {
+    "$date": "2025-03-08T06:00:25.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd00f950f2871749907a"
+  },
+  "invoice_number": "INV080325-999",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:00:32.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd03f950f2871749907f"
+  },
+  "invoice_number": "INV080325-716",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:00:35.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd6387aa59465e29e320"
+  },
+  "invoice_number": "INV080325-923",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:02:11.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd6487aa59465e29e325"
+  },
+  "invoice_number": "INV080325-242",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:02:12.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd8287aa59465e29e32d"
+  },
+  "invoice_number": "INV080325-577",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 160000,
+  "created_on": {
+    "$date": "2025-03-08T06:02:42.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd8b87aa59465e29e334"
+  },
+  "invoice_number": "INV080325-769",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:02:51.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbdd8c87aa59465e29e339"
+  },
+  "invoice_number": "INV080325-150",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:02:52.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe01743e70faba37dce09"
+  },
+  "invoice_number": "INV080325-763",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 160000,
+  "created_on": {
+    "$date": "2025-03-08T06:13:43.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe02143e70faba37dce0f"
+  },
+  "invoice_number": "INV080325-558",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:13:53.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe02f43e70faba37dce16"
+  },
+  "invoice_number": "INV080325-677",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:14:07.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe03043e70faba37dce1b"
+  },
+  "invoice_number": "INV080325-441",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:14:08.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe03143e70faba37dce20"
+  },
+  "invoice_number": "INV080325-077",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:14:09.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe342717b816c43dc6045"
+  },
+  "invoice_number": "INV080325-704",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 160000,
+  "created_on": {
+    "$date": "2025-03-08T06:27:14.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe35e717b816c43dc604e"
+  },
+  "invoice_number": "INV080325-455",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:27:42.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe362717b816c43dc6053"
+  },
+  "invoice_number": "INV080325-610",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:27:45.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe363717b816c43dc6058"
+  },
+  "invoice_number": "INV080325-553",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "PULSA",
+  "service_name": "Pulsa",
+  "transaction_type": "PAYMENT",
+  "total_amount": 40000,
+  "created_on": {
+    "$date": "2025-03-08T06:27:47.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbe36b717b816c43dc605d"
+  },
+  "invoice_number": "INV080325-363",
+  "email": "user@nutech-integrasi.com",
+  "service_code": "TOPUP",
+  "service_name": "Top Up Balance",
+  "transaction_type": "TOPUP",
+  "total_amount": 160000,
+  "created_on": {
+    "$date": "2025-03-08T06:27:55.587Z"
+  },
+  "__v": 0
+}]
